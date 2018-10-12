@@ -1,0 +1,14 @@
+uuid: 7b94a6d8-0d74-4e66-bb00-b4b6d2f720e6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - mspiral.yin@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

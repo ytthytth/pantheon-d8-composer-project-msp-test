@@ -1,0 +1,14 @@
+uuid: 1af425b2-d051-4138-b1fb-f15439829f77
+name: pantheon-d8-composer-project-msp-test
+mail: mspiral.yin@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
